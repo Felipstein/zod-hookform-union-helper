@@ -1,7 +1,10 @@
 {
   "name": "zod-hookform-union-helper",
   "version": "1.0.0",
-  "main": "src/index.ts",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "author": {
     "name": "Felipe Oliveira",
     "email": "felipstein.oliveira@gmail.com"
