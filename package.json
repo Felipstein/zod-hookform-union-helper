@@ -1,0 +1,34 @@
+{
+  "name": "zod-hookform-union-helper",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": {
+    "name": "Felipe Oliveira",
+    "email": "felipstein.oliveira@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Felipstein/zod-hookform-union-helper"
+  },
+  "keywords": [
+    "zod",
+    "hookform",
+    "union",
+    "helper",
+    "typescript",
+    "react-hook-form",
+    "react-hook-form-zod"
+  ],
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "typescript": ">=3"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@felipstein/eslint-config-node": "^1.1.2",
+    "eslint": "^8.52.0"
+  }
+}

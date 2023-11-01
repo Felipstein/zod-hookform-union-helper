@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "felipstein",
+    "hookform",
+    "typeof"
+  ],
+  "editor.rulers": [
+    120
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.fixAll.eslint": "always",
+  },
+}
